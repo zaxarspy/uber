@@ -17,6 +17,26 @@ var WORDS_AR = {
     "text16": "هل يوجد مشكلة ؟",
     "text17": "الحصول علي مساعدة",
     "text18": "البريد الإلكتروني أو رقم الجوَّال",
+};
 
 
+var WORDS_DE = {
+    "text1": "Anmelden",
+    "text2": "Enter Here",
+    "text3": "Wir können diese E-Mail-Adresse nicht erkennen. Bitte überprüfen Sie, ob Rechtschreibfehler vorliegen, und versuchen Sie es erneut.",
+    "text4": "nächster",
+    "text5": "أGeben Sie das Passwort ein",
+    "text6": "Passwort",
+    "text7": "Das eingegebene Passwort ist falsch. ",
+    "text8": "Sie haben noch keinen Account?",
+    "text9": "Aufzeichnung",
+    "text10": "Passwort vergessen?",
+    "text11": "2-zweistufige Überprüfung - SMS",
+    "text12": "Geben Sie den 4-stelligen Code ein, der an Sie gesendet wurde",
+    "text13": "Der Bestätigungscode ist ungültig.",
+    "text14": "Prüfen",
+    "text15": "Senden Sie den Code erneut über ",
+    "text16": "Gibt es ein Problem ?",
+    "text17": "Hilfe erhalten",
+    "text18": "E-Mail oder Handynummer",
 };
